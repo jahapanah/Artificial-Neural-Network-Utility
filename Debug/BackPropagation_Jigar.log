@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\singh\onedrive\documents\all\ann midterm\backpropagation_jigar\backpropagation_jigar\hiddenlayer.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\singh\onedrive\documents\all\ann midterm\backpropagation_jigar\backpropagation_jigar\data.h(85): warning C4018: '<': signed/unsigned mismatch
+  BackPropagation_Jigar.vcxproj -> C:\Users\singh\OneDrive\Documents\All\ANN Midterm\BackPropagation_Jigar\Debug\BackPropagation_Jigar.exe
